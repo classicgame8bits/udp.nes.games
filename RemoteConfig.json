@@ -1,0 +1,22 @@
+{
+  "packageName": "udp.nes.games",
+  "forceUpdate": false,
+  "forceUpdateContent": "New version with SMALL SIZE, BUG\nFIXED and MORE GAMES is on Store!\nUpdate now!",
+  "forceUpdateUrl": "market://details?id=EMPTY",
+  "checkClone": false,
+  "reviewVersion": -1,
+  "showNESGamesTimeDelay": 0,
+  "adsNetwork": 0,
+  "adsType": 0,
+  "numberPressToShowAds": 15,
+  "showBannerMenu": false,
+  "showBannerPlay": false,
+  "showNewGames": false,
+  "newGames": [
+    {
+      "name": "",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.game.retro.emulator.nes/master/big_update.jpg",
+      "downloadUrl": "market://details?id=EMPTY"
+    }
+  ]
+}
